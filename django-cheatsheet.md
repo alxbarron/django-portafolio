@@ -8,9 +8,10 @@
  - Run `<Application>` Migrations
  - Test `<Application>` Models on Shell
  - Define views functions for `<Application>`
- - Add routes for `<App
+ - Add routes for `<Application>`
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MjU4NDgwLDg5ODk3NDU4MSwtMjEzMT
-g3Njk2Ml19
+eyJoaXN0b3J5IjpbLTMzMjA3MzU4NCw4OTg5NzQ1ODEsLTIxMz
+E4NzY5NjJdfQ==
 -->
