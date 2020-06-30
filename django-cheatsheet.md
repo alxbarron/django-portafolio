@@ -1,7 +1,11 @@
 # Django Quickstart CheatSheet
 
- - List item
+ - Create Project
+ - Create Application
+ - Define Models
+ - Update Project settings, add application
+ - Create 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNzk0MzQxXX0=
+eyJoaXN0b3J5IjpbLTM4ODUzMzk1Nl19
 -->
