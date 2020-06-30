@@ -4,8 +4,9 @@
  - Create Application
  - Define Models
  - Update Project settings, add application
- - Create 
+ - Create Migrations
+ - Run Migrations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODUzMzk1Nl19
+eyJoaXN0b3J5IjpbLTIxMzE4NzY5NjJdfQ==
 -->
