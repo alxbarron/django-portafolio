@@ -4,11 +4,12 @@
  - Create Application
  - Define Models
  - Update Project settings, add application
- - Create Migrations
- - Run Migrations
- - Test Models on Shell
- - 
+ - Create Project Migrations
+ - Run Project Migrations
+ - Test Project Models on Shell
+ - Define view 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4OTc0NTgxLC0yMTMxODc2OTYyXX0=
+eyJoaXN0b3J5IjpbMTM2NzQzMDEwNCw4OTg5NzQ1ODEsLTIxMz
+E4NzY5NjJdfQ==
 -->
