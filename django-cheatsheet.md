@@ -6,7 +6,9 @@
  - Update Project settings, add application
  - Create Migrations
  - Run Migrations
+ - Test Models on Shell
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE4NzY5NjJdfQ==
+eyJoaXN0b3J5IjpbODk4OTc0NTgxLC0yMTMxODc2OTYyXX0=
 -->
