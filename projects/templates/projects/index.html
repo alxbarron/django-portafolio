@@ -1,0 +1,28 @@
+{% extends 'layout-default.html' %}
+{% load static %}
+
+{% block content %}
+    <h1 class="title">Projects</h1>
+    <ul>
+        {% for project in projects %}
+            <li style="max-width: 400px; display: inline-block">
+                <div class="card">
+                    <div class="card-header">
+                        <p class="card-header-title">{{ project.title }}</p>
+                    </div>
+                    <div class="card-image">
+                        <figure class="image is-4by3">
+                            <img src="{% static project.image %}" alt="">
+                        </figure>
+                    </div>
+                    <div class="card-content">
+                        <div class="content">{{ project.description }}</div>
+                    </div>
+                    <footer class="card-footer">
+                        <a href="{% url 'projects:detail' project.id %}" class="card-footer-item">Read more</a>
+                    </footer>
+                </div>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
