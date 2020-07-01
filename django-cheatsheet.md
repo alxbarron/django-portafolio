@@ -14,8 +14,11 @@
 	 - Include `<Application>` urls into **Project** urls
  - Create **Project** templates & register on settings.py
  
+ ### Admin
+ Create superuser
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzY1Mjc1NSwtMTAxNzg1MTkxNywtMz
-MyMDczNTg0LDg5ODk3NDU4MSwtMjEzMTg3Njk2Ml19
+eyJoaXN0b3J5IjpbLTE4NDA3NzQ2NzEsMTEyNzY1Mjc1NSwtMT
+AxNzg1MTkxNywtMzMyMDczNTg0LDg5ODk3NDU4MSwtMjEzMTg3
+Njk2Ml19
 -->
