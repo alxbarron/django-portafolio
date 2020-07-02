@@ -1,0 +1,48 @@
+{% extends 'layout-default.html' %}
+
+{% block content %}
+    <h1 class="title">{{ post.title }}</h1>
+    <nav class="level">
+        <div class="level-left tags">
+            <strong style="transform: translateY(-4px);">Categories:&nbsp;</strong>
+            {% for category in post.categories.all %}
+                <a href="{% url 'blog:category' category.name %}" class="tag is-rounded">
+                    {{ category.name }} </a>
+            {% endfor %}
+        </div>
+        <div class="level-right">{{ post.created_on }}</div>
+    </nav>
+    <p>{{ post.body | linebreaksbr }}</p>
+
+    <div class="columns">
+        <div class="column is-10 is-offset-1">
+            <h3 class="subtitle is-3">Leave a comment:</h3>
+            <form action="{% url 'blog:detail' post.pk %}" method="POST">
+            {% csrf_token %}
+                <div class="field">
+                    <div class="control">
+                        {{ form.author }}</div>
+                </div>
+                <div class="field">
+                    <div class="control">
+                        {{ form.body }}</div>
+                </div>
+                <div class="field is-grouped">
+                    <div class="control">
+                        <button type="submit" class="button is-link">Send</button>
+                    </div>
+                </div>
+            </form>
+            
+            <div class="container">
+                <h3 class="subtitle is-3">Comments:</h3>
+                {% for comment in comments %}
+                    <h4 class="subtitle is-5">
+                            On {{ comment.created_on.date }}&nbsp;<strong>{{ comment.author }}</strong> wrote:</h4>
+                    <p class="content">
+                        {{ comment.body }}</p>
+                {% endfor %}
+            </div>
+        </div>
+    </diV>
+{% endblock  %}
