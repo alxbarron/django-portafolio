@@ -1,6 +1,6 @@
 # Django Quickstart CheatSheet
 
- ### Syntetic from -> [enter link description here](https://github.com/lucrae/django-cheat-sheet)
+ ### Quick list from -> [enter link description here](https://github.com/lucrae/django-cheat-sheet)
  - Create **Project**
  - Create `<Application>`
  - Define Models
@@ -19,7 +19,7 @@
  Create superuser
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5Nzc2OTEsLTE4NDA3NzQ2NzEsMT
-EyNzY1Mjc1NSwtMTAxNzg1MTkxNywtMzMyMDczNTg0LDg5ODk3
-NDU4MSwtMjEzMTg3Njk2Ml19
+eyJoaXN0b3J5IjpbODk2Mzc2NjUsLTE4NDA3NzQ2NzEsMTEyNz
+Y1Mjc1NSwtMTAxNzg1MTkxNywtMzMyMDczNTg0LDg5ODk3NDU4
+MSwtMjEzMTg3Njk2Ml19
 -->
