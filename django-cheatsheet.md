@@ -1,6 +1,8 @@
 # Django Quickstart CheatSheet
 
  ### Quick list from -> [Django Cheat Sheet](https://github.com/lucrae/django-cheat-sheet)
+ - Setup environment
+	 - DEfine python version 
  - Create **Project**
  - Create `<Application>`
  - Define Models
@@ -19,7 +21,7 @@
  Create superuser
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjQ0NzE0NCwtMTg0MDc3NDY3MSwxMT
-I3NjUyNzU1LC0xMDE3ODUxOTE3LC0zMzIwNzM1ODQsODk4OTc0
-NTgxLC0yMTMxODc2OTYyXX0=
+eyJoaXN0b3J5IjpbLTE5OTQ5MzUwNDMsMTkwNjQ0NzE0NCwtMT
+g0MDc3NDY3MSwxMTI3NjUyNzU1LC0xMDE3ODUxOTE3LC0zMzIw
+NzM1ODQsODk4OTc0NTgxLC0yMTMxODc2OTYyXX0=
 -->
