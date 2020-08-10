@@ -5,7 +5,7 @@
 	 - Define project name
 	 - Define dependencies
 	 - Define python version
-	 - Install Django & other dependencies
+	 - Install Django & dependencies
  - Create **Project**
  - Create `<Application>`
  - Define Models
@@ -24,7 +24,7 @@
  Create superuser
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDM2OTk2LDE5MDY0NDcxNDQsLTE4ND
-A3NzQ2NzEsMTEyNzY1Mjc1NSwtMTAxNzg1MTkxNywtMzMyMDcz
-NTg0LDg5ODk3NDU4MSwtMjEzMTg3Njk2Ml19
+eyJoaXN0b3J5IjpbMTg3ODY3NjIxMiwxOTA2NDQ3MTQ0LC0xOD
+QwNzc0NjcxLDExMjc2NTI3NTUsLTEwMTc4NTE5MTcsLTMzMjA3
+MzU4NCw4OTg5NzQ1ODEsLTIxMzE4NzY5NjJdfQ==
 -->
