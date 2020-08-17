@@ -5,8 +5,7 @@ These examples were taken from projects mainly using [Django Rest
 Framework](https://github.com/tomchristie/django-rest-framework) and so the
 JSON responses are often similar to the way in which DRF makes responses.
 
-Where full URLs are provided in responses they will be rendered as if service
-is running on 'http://testserver/'.
+Where full URLs are provided in responses they will be rendered as if service is running on 'http://testserver/'.
 
 ## Open Endpoints
 
@@ -38,5 +37,5 @@ has permissions to access.
 * [Update An Account](accounts/pk/put.md) : `PUT /api/accounts/:pk/`
 * [Delete An Account](accounts/pk/delete.md) : `DELETE /api/accounts/:pk/`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTY5OTg2Nl19
+eyJoaXN0b3J5IjpbLTIxMTA3MTU1NTAsLTkxNTY5OTg2Nl19
 -->
